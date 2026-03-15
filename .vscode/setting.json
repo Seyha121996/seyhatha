@@ -1,0 +1,31 @@
+{
+    "dart.flutterSdkPath": ".fvm/versions/3.29.3",
+    "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit"
+    },
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "editor.fontLigatures": true,
+  "files.autoSave": "onFocusChange",
+  "dart.debugExternalPackageLibraries": true,
+  "dart.debugSdkLibraries": false,
+  "explorer.confirmDelete": false,
+  "editor.codeActionsOnSave": {},
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "dart.openDevTools": "never",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.editor.enablePreview": false,
+  "dart.useLsp": false,
+  "dart.autoImportCompletions": false,
+  "editor.fontFamily": "'JetBrains Mono', 'Fira Code', monospace",
+  "editor.fontWeight": "400"
+}

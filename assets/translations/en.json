@@ -1,0 +1,29 @@
+{
+  "language": {
+    "khmer": "ខ្មែរ",
+    "englist": "English"
+  },
+  "login":{
+    "farmerID": "Farmer ID",  
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "login": "Login",
+    "signUp": "Next",
+    "dontHaveAccount": "Don't Have Account?",
+    "welcomeToBltAims": "Welcome to AIMS BLT",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "province": "Province",
+    "commune": "Commune",
+    "village": "Village",
+    "distric": "Distric",
+    "gender": "Gender"
+  },
+  "dashboard":{
+    "vegetable": "Vegetable",
+    "safeVegetable": "Safe Vegetable",
+    "rice": "Rice",
+    "premiumRice": "Premium Rice",
+    "chicken": "Chicken"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "language": {
+      "khmer": "ខ្មែរ",
+      "englist": "English"
+    },
+    "login":{
+      "email": "Email",  
+      "password": "Password",
+      "login": "Login",
+      "signUp": "Sign Up",
+      "dontHaveAccount": "Don't Have Account"
+      
+    }
+  }
+  
