@@ -1,16 +1,28 @@
-# portfolio
+# Hi, I'm Seyha Tha
 
-A new Flutter project.
+### Senior Flutter Developer | Specialized in Clean Architecture & Mobile Solutions
 
-## Getting Started
+- **Mobile Expert:** Specialized in high-performance Flutter apps for Android & iOS.
+- **Architecture:** Expert in Clean Architecture, Bloc/Cubit, and Flutter Hooks.
+- **Integrations:** Experienced with NFC, P2P Messaging (Tinode), and Payment Gateways (ABA).
+- **Localization:** Focused on building localized Khmer interfaces and digital literacy tools.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+###Technical Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frameworks:** Flutter, Dart
+- **State Management:** Bloc, Provider, GetX, Hooks
+- **DevOps:** GitHub Actions (CI/CD), Git, App Store & Play Store Deployment
+- **Tools:** Firebase, REST APIs (Dio), Postman, Figma
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+Current Projects
+-AIMS Digital Business Literacy:** E-learning platform for business skills.
+-Clazz Coffee:** Loyalty & Ordering system with secure social auth and QR payments.
+
+---
+
+Connect with me:
+[Email](mailto:thaseyha165@gmail.com)
